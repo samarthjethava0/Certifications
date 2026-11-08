@@ -3,7 +3,6 @@
 <br>
 
 - **Issued by:** <u>Anthropic Education</u>
-<br>
 
 Successfully completed the AI Fluency: Framework & Foundations course, building a foundation for understanding and working effectively with AI.
 
