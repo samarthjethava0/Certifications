@@ -2,8 +2,8 @@
 
 <br>
 
-**Issued by:** Anthropic Education 
-**Recipient:** Samarth Jethava
+- **Issued by:** <u>Anthropic Education</u>
+<br>
 
 Successfully completed the AI Fluency: Framework & Foundations course, building a foundation for understanding and working effectively with AI.
 
@@ -18,6 +18,7 @@ Successfully completed the AI Fluency: Framework & Foundations course, building 
 ### Verification
 
 **Certificate Link:** https://verify.skilljar.com/c/feqwhqek789w
+<br>
 **Completion Date:** 28th July 2026
 
 ### Certificate
