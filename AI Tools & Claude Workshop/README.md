@@ -1,7 +1,7 @@
 # AI Tools & Claude Workshop
 <br>
 
-**Issued by:** be10x  
+- **Issued by:** be10x  
 
 Successfully completed the AI Tools & Claude Workshop, focusing on practical ways to use AI for everyday productivity and technical tasks.
 
