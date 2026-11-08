@@ -14,8 +14,9 @@ Welcome to my certification portfolio! This repository showcases my learning jou
 
 ## My Certificates
 
-1. [AI Fluency: Framework & Foundations — Anthropic](./AI-Fluency-Framework-&-Foundations/)
-2. [AI Tools & Claude Workshop — be10x](./AI-Tools-&-Claude-Workshop/)
+1. [AI Fluency: Framework & Foundations - Anthropic](https://github.com/samarthjethava0/Certifications/tree/main/AI%20Fluency%3A%20Framework%20%26%20Foundations
+)
+2. [AI Tools & Claude Workshop - be10x](https://github.com/samarthjethava0/Certifications/tree/main/AI%20Tools%20%26%20Claude%20Workshop)
 
 
 ## Connect With Me
